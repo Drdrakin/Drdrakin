@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Alves</h1>
-<h3 align="center">An enthusiastic web developer 🤖</h3>
+<h3 align="center">Enthusiastic web developer 🤖</h3>
 
 - 🔭 I’m currently working on [NavGo](https://github.com/AurorinhaBoreal/NavGo-BackEnd)
 
