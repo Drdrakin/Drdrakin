@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NavGo](https://github.com/AurorinhaBoreal/NavGo-BackEnd)
 - 🌱 I’m learning **SPA Web development**
-- ❤ I love playing <b>games 🎮</b> and <b>reading 📚</b> for fun
+- ❤ I love playing <b>games 🎮</b> and <b>reading 📚</b>
 <h3>Contact me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2)](https://www.linkedin.com/in/guilherme-alves-area-matos-2675ab283/)
