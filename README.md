@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center">I'm Guilherme Alves, an enthusiastic fullstack developer 🤖</h3>
 
-<h4>I work on open source projects in my free time, focusing on web development.</h4>
+<h4>I work on personal projects in my free time, focusing on web development.</h4>
 
-- 🔭 I’m currently working on [NavGo](https://github.com/AurorinhaBoreal/NavGo-BackEnd)
+- 🔭 I’m currently working on [NavGo](https://github.com/AurorinhaBoreal/NavGo-BackEnd), a Web App for schools 
 - 🌱 I’m learning **SPA Web development**
 - ❤ I love playing <b>games 🎮</b> and <b>reading 📚</b>
 <h3>Feel free to contact me</h3>
