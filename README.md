@@ -14,7 +14,7 @@
 <h3 align="left">Languages and tools I frequently use:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,figma,react,nodejs,php,laravel,docker,gcp,mysql,mongodb,firebase,python"/>
+    <img src="https://skillicons.dev/icons?i=javascript,figma,react,nodejs,php,laravel,docker,gcp,mysql,mongodb,firebase,python"/>
   </a>
 </p>
 
