@@ -3,9 +3,9 @@
 
 <h4>I work on personal projects in my free time, focusing on web development.</h4>
 
-- 🔭 I’m currently working on [NavGo](https://github.com/AurorinhaBoreal/NavGo-BackEnd), a Web App for schools 
-- 🌱 I’m learning **SPA Web development**
-- ❤ I love playing <b>games 🎮</b> and <b>reading 📚</b>
+- 🔭 My current personal projects: [NavGo](https://github.com/AurorinhaBoreal/NavGo-BackEnd) and [Mystica](https://github.com/Drdrakin/mystica)
+- 🏬 Working with .Net Core in Rectask, building commercial software
+- ❤ I love playing <b>games 🎮</b> and <b>reading 📚</b> in my free time
 <h3>Feel free to contact me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/Message_me-Linkedin-0A66C2)](https://www.linkedin.com/in/guilherme-alves-area-matos-2675ab283/)
