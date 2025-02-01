@@ -4,7 +4,7 @@
 <h4>I work on personal projects in my free time, focusing on web development.</h4>
 
 - 🔭 My current personal projects: [NavGo](https://github.com/AurorinhaBoreal/NavGo-BackEnd) and [Mystica](https://github.com/Drdrakin/mystica)
-- 🏬 Working with .Net Core in Rectask, building commercial software
+- 🏬 Working mainly with Asp.Net in Rectask, building commercial software
 - ❤ I love playing <b>games 🎮</b> and <b>reading 📚</b> in my free time
 <h3>Feel free to contact me</h3>
 
