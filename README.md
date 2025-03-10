@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋</h1>
-<h3 align="center">I'm Guilherme Alves, backend developer 🤖</h3>
+<h3 align="center">I'm Guilherme Alves, backend developer</h3>
 
 <h4>I work on personal projects in my free time, focusing on web development.</h4>
 
 - 🔭 My current personal projects: [NavGo](https://github.com/AurorinhaBoreal/NavGo-BackEnd) and [Mystica](https://github.com/Drdrakin/mystica)
-- 🏬 Working mainly with Asp.Net in Rectask, building commercial software
+- 🏬 Working with Asp.Net, building enterprise software
 - ❤ I love playing <b>games 🎮</b> and <b>reading 📚</b> in my free time
 <h3>Feel free to contact me</h3>
 
