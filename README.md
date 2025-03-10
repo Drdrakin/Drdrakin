@@ -18,11 +18,4 @@
   </a>
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=drdrakin&show_icons=true&theme=radical" title="My stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdrakin&layout=compact&theme=radical" title="My stats"/> 
-</p>
-
 
