@@ -43,13 +43,11 @@ Currently working as a Backend .NET Developer in enterprise software, developing
 * **Database Optimization** — SQL Server queries and performance improvements
 * **Business Automation** — Replacing repetitive manual workflows with automated solutions
 
-Available for freelance projects involving:
-
-**.NET Backend • API Integration • Selenium Automation • RPA • Business Process Automation**
+**.NET Backend • API Integration • Selenium Automation • Web Scraper • Business Process Automation**
 
 If you have a repetitive process, disconnected systems, or an API integration that needs to be built, feel free to get in touch.
 
-### Contact
+### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-alves-area-matos-2675ab283/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:guilherme.alves.matos2005@gmail.com)
