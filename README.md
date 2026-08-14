@@ -1,6 +1,20 @@
-# Hey there 👋
-
 <h3 align="center">Backend .NET Developer | API Integration | Automation</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Integration-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RPA-Automation-6E56CF?style=for-the-badge"/>
+</p>
 
 <p align="center">
   I build backend solutions, API integrations and business process automations using the .NET ecosystem.
@@ -14,15 +28,44 @@ I'm a Backend .NET Developer focused on building reliable and practical solution
 
 My professional experience includes enterprise applications, REST APIs, third-party integrations, database optimization, and process automation using Selenium.
 
-I'm also available for freelance projects involving backend development, API integrations, automation and custom business solutions.
+<h2 align="center">What I Do</h2>
 
-<p align="center"><b>Main Tech Stack</b></p>
+<table align="center">
+<tr>
+<td align="center" width="250">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,gcp,docker,selenium,vue,git"/>
-  </a>
-</p>
+### ⚙️ Backend
+
+C#  
+.NET  
+ASP.NET Core  
+REST APIs
+
+</td>
+
+<td align="center" width="250">
+
+### 🔗 Integrations
+
+REST APIs  
+Third-party APIs  
+Legacy Systems  
+Data Integration
+
+</td>
+
+<td align="center" width="250">
+
+### 🤖 Automation
+
+Selenium  
+RPA  
+Process Automation  
+Web Automation
+
+</td>
+</tr>
+</table>
 
 Currently working as a Backend .NET Developer in enterprise software, developing and maintaining systems for the mortgage lending industry.
 
@@ -35,17 +78,7 @@ Currently working as a Backend .NET Developer in enterprise software, developing
 
 ## Freelance
 
-### What I Can Help With
-
-* **Backend Development** — C#, .NET, ASP.NET Core and REST APIs
-* **API Integration** — Connecting systems, third-party APIs and legacy applications
-* **Process Automation** — Selenium-based automation and RPA solutions
-* **Database Optimization** — SQL Server queries and performance improvements
-* **Business Automation** — Replacing repetitive manual workflows with automated solutions
-
-**.NET Backend • API Integration • Selenium Automation • Web Scraper • Business Process Automation**
-
-If you have a repetitive process, disconnected systems, or an API integration that needs to be built, feel free to get in touch.
+If you have a repetitive process, disconnected systems, an API integration that needs to be built, or a process that you think could be automated, it probably can. So feel free to get in touch.
 
 ### Contact me
 
