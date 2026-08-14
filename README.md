@@ -16,14 +16,6 @@ My professional experience includes enterprise applications, REST APIs, third-pa
 
 I'm also available for freelance projects involving backend development, API integrations, automation and custom business solutions.
 
-### What I Can Help With
-
-* **Backend Development** — C#, .NET, ASP.NET Core and REST APIs
-* **API Integration** — Connecting systems, third-party APIs and legacy applications
-* **Process Automation** — Selenium-based automation and RPA solutions
-* **Database Optimization** — SQL Server queries and performance improvements
-* **Business Automation** — Replacing repetitive manual workflows with automated solutions
-
 <p align="center"><b>Main Tech Stack</b></p>
 
 <p align="center">
@@ -41,7 +33,15 @@ Currently working as a Backend .NET Developer in enterprise software, developing
 * Working with cloud infrastructure and production systems
 * Designing solutions using clean code and software architecture principles
 
-### Freelance
+## Freelance
+
+### What I Can Help With
+
+* **Backend Development** — C#, .NET, ASP.NET Core and REST APIs
+* **API Integration** — Connecting systems, third-party APIs and legacy applications
+* **Process Automation** — Selenium-based automation and RPA solutions
+* **Database Optimization** — SQL Server queries and performance improvements
+* **Business Automation** — Replacing repetitive manual workflows with automated solutions
 
 Available for freelance projects involving:
 
